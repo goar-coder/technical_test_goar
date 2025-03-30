@@ -65,6 +65,7 @@ DATABASE_TEST_URL: URL de conexión a la base de datos de pruebas.
 ## Comandos útiles
 Reconstruir los contenedores:
 docker-compose up --build
+
 Detener los contenedores:
 docker-compose down
 
