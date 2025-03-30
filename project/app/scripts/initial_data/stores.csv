@@ -1,0 +1,31 @@
+store_id,name,address,opening_hours,city_id
+1,Terry PLC,357 Bishop Brook,18:20:00,1
+2,Sims LLC,5835 Jessica Mills,20:46:00,1
+3,Parker Group,540 Sherry Common,20:09:00,1
+4,"Allen, Smith and Perkins",198 Kevin Isle,07:22:00,2
+5,Rose-Bell,02321 Jean Islands,09:59:00,2
+6,Moore LLC,29300 Fletcher Drive Suite 172,18:45:00,2
+7,Clayton Group,6720 Perez Glen,19:21:00,3
+8,"Jimenez, Turner and Brady",87820 Miller Crossing,17:46:00,3
+9,Beltran-Wallace,5302 Lee Burgs Apt. 645,10:08:00,3
+10,"Villa, Olson and Taylor",2165 Smith Unions Apt. 870,11:52:00,4
+11,Case-Miles,11211 Jennifer Mountains Suite 254,08:06:00,4
+12,Harris Group,9594 Sara Fall,08:04:00,4
+13,"Gonzalez, Anderson and Neal",3259 Phillips Spur,12:30:00,5
+14,Robbins-Williams,0697 Wright Village Apt. 869,06:52:00,5
+15,"Thornton, Sampson and Dixon",1288 Anthony Radial Apt. 301,09:16:00,5
+16,Patrick-Harvey,00561 Gary Ports,19:50:00,6
+17,Allen-Hicks,91646 Cooper Lane,15:35:00,6
+18,Stein-Miller,77650 Tamara Squares Apt. 732,09:00:00,6
+19,"Lopez, Klein and Thompson",20621 Carrillo Branch Apt. 593,16:37:00,7
+20,Simmons-Garcia,42807 Christensen Summit,11:21:00,7
+21,"Freeman, Sandoval and Douglas",6503 Hernandez Turnpike Apt. 029,07:34:00,7
+22,"Morgan, Wright and Cox",53586 Spencer Keys Apt. 937,12:22:00,8
+23,Oliver Inc,82012 Estrada Springs,11:46:00,8
+24,Ponce-Reynolds,2635 Michael Flat,07:13:00,8
+25,"Zamora, Richard and Bailey",5387 Hoover Turnpike Apt. 046,06:13:00,9
+26,Hall-Reyes,1244 Wong Key Suite 647,10:38:00,9
+27,Hanna LLC,944 Emily Ford,17:23:00,9
+28,"Valentine, Duran and Ramos",07723 Carney Islands Suite 676,10:17:00,10
+29,"White, Elliott and Robinson",04592 Johnny Grove,19:02:00,10
+30,"Spencer, Harmon and White",55746 Andrew Expressway,12:41:00,10

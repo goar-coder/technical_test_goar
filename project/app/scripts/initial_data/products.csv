@@ -1,0 +1,51 @@
+product_id,brand_id,product_type_id,name,caloric_value,saturated_fat_percentage,sugar_percentage
+1,2,1,Nestlé Energy Dairy,92,95,25
+2,3,1,Coca-Cola Would Dairy,30,29,81
+3,4,1,Pepsi Road Dairy,30,100,20
+4,8,1,Kellogg's Produce Dairy,21,93,12
+5,3,1,Coca-Cola Prepare Dairy,64,78,95
+6,9,2,Barilla Suggest Meat,61,8,92
+7,4,2,Pepsi Else Meat,28,87,99
+8,5,2,Heinz Community Meat,53,1,76
+9,8,2,Kellogg's Seat Meat,71,15,48
+10,3,2,Coca-Cola Community Meat,81,67,14
+11,7,3,Unilever Program Fruits,4,70,68
+12,10,3,General Mills Inside Fruits,91,16,91
+13,1,3,Danone Machine Fruits,55,66,89
+14,8,3,Kellogg's Away Fruits,10,98,100
+15,5,3,Heinz Organization Fruits,11,66,49
+16,9,4,Barilla Fact Vegetables,87,4,8
+17,5,4,Heinz None Vegetables,41,7,94
+18,7,4,Unilever Century Vegetables,73,59,39
+19,8,4,Kellogg's At Vegetables,64,13,41
+20,4,4,Pepsi Place Vegetables,62,16,38
+21,2,5,Nestlé After Cereals,24,19,38
+22,4,5,Pepsi Beat Cereals,93,65,12
+23,10,5,General Mills Hour Cereals,81,44,1
+24,8,5,Kellogg's Art Cereals,77,96,57
+25,7,5,Unilever Police Cereals,18,23,46
+26,9,6,Barilla Relate Snacks,54,65,10
+27,2,6,Nestlé Performance Snacks,14,54,62
+28,1,6,Danone Else Snacks,82,89,16
+29,10,6,General Mills Subject Snacks,2,71,12
+30,10,6,General Mills Suffer Snacks,88,18,12
+31,7,7,Unilever On Beverages,85,69,11
+32,8,7,Kellogg's Foot Beverages,68,31,61
+33,2,7,Nestlé Bar Beverages,41,40,9
+34,8,7,Kellogg's Lose Beverages,93,40,30
+35,4,7,Pepsi Who Beverages,69,65,54
+36,6,8,Kraft Meeting Fish,80,77,54
+37,9,8,Barilla Article Fish,17,65,82
+38,10,8,General Mills Big Fish,53,92,40
+39,9,8,Barilla Garden Fish,34,88,95
+40,4,8,Pepsi Fear Fish,30,100,33
+41,6,9,Kraft Produce Frozen Foods,77,32,49
+42,10,9,General Mills Hit Frozen Foods,54,65,55
+43,7,9,Unilever Focus Frozen Foods,65,47,57
+44,2,9,Nestlé Tell Frozen Foods,33,12,69
+45,7,9,Unilever Remember Frozen Foods,3,71,62
+46,5,10,Heinz Fund Bakery,63,40,65
+47,8,10,Kellogg's International Bakery,74,77,82
+48,4,10,Pepsi Arrive Bakery,80,95,47
+49,2,10,Nestlé Human Bakery,78,36,65
+50,3,10,Coca-Cola Physical Bakery,37,93,24
