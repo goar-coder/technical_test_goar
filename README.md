@@ -13,7 +13,7 @@ Este proyecto es una API desarrollada con **FastAPI** para gestionar datos relac
 1. Clona este repositorio en tu máquina local:
    ```bash
    git clone <URL_DEL_REPOSITORIO>
-   cd technical_test
+   cd technical_test_goar
 
 2. Construye y levanta los contenedores con Docker Compose:
 
@@ -22,6 +22,10 @@ Una vez que los contenedores estén en ejecución, la API estará disponible en:
 
 3. Documentación interactiva (Swagger UI): http://127.0.0.1:8004/docs
 Documentación alternativa (ReDoc): http://127.0.0.1:8004/redoc
+
+4. Para cargar los datos iniciales: http://127.0.0.1:8004/load_data
+
+5. Para acceder al servidor de Postgres está abierto el puerto 5433 ( para evitar conflictos con un servidor Postgres local ;) )
 
 ## Estructura del proyecto
 [docker-compose.yml](http://_vscodecontentref_/0)
