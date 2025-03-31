@@ -1,4 +1,3 @@
-# technical_test
 # Technical Test
 
 Este proyecto es una API desarrollada con **FastAPI** para gestionar datos relacionados con ciudades, tiendas, productos y precios. Está diseñada para ser ejecutada en un entorno Dockerizado.
